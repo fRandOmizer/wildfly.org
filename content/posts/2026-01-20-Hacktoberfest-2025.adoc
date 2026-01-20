@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hacktoberfest 2025 is here!"
-date:   2025-09-26
+date:   2026-01-20
 tags: Hacktoberfest, OpenSource
 author: rchakrab
 description: Your guide to participating in Hacktoberfest 2025, including general rules, rewards, and how to get involved with WildFly projects.
